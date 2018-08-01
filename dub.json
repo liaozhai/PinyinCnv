@@ -1,0 +1,10 @@
+{
+	"name": "pcnv",
+	"authors": [
+		"liaozhai"
+	],
+	"description": "Convert between pinyin formats (numbers and diacritics)",
+	"copyright": "Copyright © 2018, liaozhai",
+	"license": "proprietary",
+	"dflags": ["-J=./source"]
+}
